@@ -2,6 +2,8 @@
 
 - [About me](#about-me)
 
+## About me
+
 - Career changer from 20 years in the aviation industry to Software Testing world. In my previous roles I was a skilled and hardworking aviation mechanic, but due to the ongoing pandemic my previous employer was forced to lay off all employees. While this period was unplanned and unexpected, I put the time to good use by choosing to follow a new career path and further expand my education.
 Although my experience as a software tester is limited, I have shown dedication in this new career by completing numerous online courses and achieving my Certified Tester certificate from the International Software Testing Qualifications Board.
 
