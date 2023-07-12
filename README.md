@@ -6,8 +6,6 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
  
   ## About me
 
@@ -15,8 +13,8 @@
 Although my experience as a software tester is limited, I have shown dedication in this new career by completing numerous online courses and achieving my Certified Tester certificate from the International Software Testing Qualifications Board
 
 
-## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing)
+## Resume
+[LUIS_ARZANI_Resume.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12016723/LUIS_ARZANI_Resume.pdf)
 
 
 Work Done
@@ -35,7 +33,7 @@ Work Done
 
 [LuisArzaniCoverLetter.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12016725/LuisArzaniCoverLetter.pdf)
 
-[LUIS_ARZANI_Resume.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12016723/LUIS_ARZANI_Resume.pdf)
+
 
 [2022 Bootcamp Test Cases-1.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12017843/2022.Bootcamp.Test.Cases-1.pdf)
 
