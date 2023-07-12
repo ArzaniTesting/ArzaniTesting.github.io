@@ -6,8 +6,8 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
- 
-  ## About me
+
+ ## About me
 
 - Career changer from 20 years in the aviation industry to Software Testing world. In my previous roles I was a skilled and hardworking aviation mechanic, but due to the ongoing pandemic my previous employer was forced to lay off all employees. While this period was unplanned and unexpected, I put the time to good use by choosing to follow a new career path and further expand my education.
 Although my experience as a software tester is limited, I have shown dedication in this new career by completing numerous online courses and achieving my Certified Tester certificate from the International Software Testing Qualifications Board.
@@ -18,39 +18,7 @@ Although my experience as a software tester is limited, I have shown dedication 
 
 
 
-
-
-
-
-Work Done
-
-
-[Otterbox Website - Info.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030358/Otterbox.Website.-.Info.pdf)
-
-[Swarovski Application - Info-1.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030357/Swarovski.Application.-.Info-1.pdf)
-
-[B & B Hotels Website - Info.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030356/B.B.Hotels.Website.-.Info.pdf)
-
-[American Eagle Website - Info.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030355/American.Eagle.Website.-.Info.pdf)
-
-[Adidas Website - Info.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030354/Adidas.Website.-.Info.pdf)
-
-
-[LuisArzaniCoverLetter.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12016725/LuisArzaniCoverLetter.pdf)
-
-
-
-[2022 Bootcamp Test Cases-1.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12017843/2022.Bootcamp.Test.Cases-1.pdf)
-
-
-
-
-
-
-
 ## Skills
-
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
   * Able to perform manual functional and usability testing of web applications.
@@ -65,9 +33,8 @@ __Test analysis & design__
   * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
 __API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
+  * General knowledge of SOAP and REST APIs, HTTP and XML basics.
+  * Understanding of how to test APIs using requests including GETs and POSTs.
 
 __Exploratory testing__
   * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
@@ -83,6 +50,24 @@ __SQL databases__
 
 __Microsoft Office__
   * Knoweledge of computer operations including Word, Excel, and Powerpoint.
+
+
+
+
+
+
+[LuisArzaniCoverLetter.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12016725/LuisArzaniCoverLetter.pdf)
+
+
+
+[2022 Bootcamp Test Cases-1.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12017843/2022.Bootcamp.Test.Cases-1.pdf)
+
+
+
+
+
+
+
   
 
 
@@ -96,10 +81,6 @@ __TestRail__
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
-
-__SoapUI__
-
-__Browser developer tools__
 
 __VirtualBox__
   * able to set up and operate virtual machines
@@ -129,7 +110,21 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 [Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
 
 
+
+
 ## Examples of my work
+
+[Otterbox Website - Info.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030358/Otterbox.Website.-.Info.pdf)
+
+[Swarovski Application - Info-1.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030357/Swarovski.Application.-.Info-1.pdf)
+
+[B & B Hotels Website - Info.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030356/B.B.Hotels.Website.-.Info.pdf)
+
+[American Eagle Website - Info.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030355/American.Eagle.Website.-.Info.pdf)
+
+[Adidas Website - Info.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030354/Adidas.Website.-.Info.pdf)
+
+
 
 ### Test cases and work in TestRail
 
