@@ -25,10 +25,6 @@ __Manual testing__
   * Able to perform manual functional and usability testing of web applications.
   * Obtained hands-on experience by testing applications and websites through communities of digital freelance software testers.
 
-__Manual testing__
-  * Able to perform manual functional and usability testing of web applications.
-  * gained hands-on experience by testing applications created for educational purposes
-
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
   * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
