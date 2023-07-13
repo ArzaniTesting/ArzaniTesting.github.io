@@ -1,6 +1,6 @@
 # Portfolio
 - [About me](#about-me)
-- [CV](#cv)
+- [Resume](#resume)
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
@@ -13,30 +13,11 @@
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
-
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
-
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
-
-
-
-# Portfolio 
-
-- [About me](#about-me)
-- [Resume](#resume)
-- [Skills](#skills)
-- [Tools](#tools)
-- [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
-
-
- ## About me
-
-I am a positive-
-
 - Career changer from 20 years in the aviation industry to the Software Testing world. In my previous roles I was a skilled and hardworking aviation mechanic, but due to the ongoing pandemic my previous employer was forced to lay off all employees. While this period was unplanned and unexpected, I put the time to good use by choosing to follow a new career path and further expand my education.
 Although my experience as a software tester is limited, I have shown dedication in this new career by completing numerous online courses and achieving my Certified Tester certificate from the International Software Testing Qualifications Board.
+
+
+
 
 
 ## Resume
