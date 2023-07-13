@@ -26,24 +26,26 @@ __Manual testing__
   * Obtained hands-on experience by testing applications and websites through communities of digital freelance software testers.
 
 __Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+  * Knowledge of Software Development Lifecycle Models.
+  * Able to apply Black Box testing techniques, including equivalence partitioning, boundary value analysis and other methods to analyze input data.
+
+__Performance testing__
+  * Knowledge of different types of performance testing including Load testing, Stress testing, and Spike testing.
+  * Basic skills in using performance testing tools such as JMeter.
 
 __API testing__
   * General knowledge of SOAP and REST APIs, HTTP and XML basics.
   * Understanding of how to test APIs using requests including GETs and POSTs.
-
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+  * Basic Skills in using API testing tools such as Postman.
 
 __Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
+  * Able to create test cases and checklists and how to follow them correctly. 
+  * Able to prepare thorough bug reports and provide detailed reports.
+  * Understanding of tools such as Jira to track bugs.
 
 __SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
+  * Able to write requests using subqueries.
+  * Familiar with the use of different commands such as SELECT, UPDATE, INSERT INTO, etc. 
 
 __Microsoft Office__
   * Knoweledge of computer operations including Word, Excel, and Powerpoint.
