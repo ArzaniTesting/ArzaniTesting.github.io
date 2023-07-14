@@ -47,7 +47,7 @@ __API testing__
 __Test documentation__
   * Able to create test cases and checklists and how to follow them correctly. 
   * Able to prepare thorough bug reports and provide detailed reports.
-  * Understanding of tools such as Jira to track bugs.
+  * Understanding of tools to track test cases and bugs. 
 
 __SQL databases__
   * Able to write requests using subqueries.
@@ -57,30 +57,10 @@ __Microsoft Office__
   * Knoweledge of computer operations including Word, Excel, and Powerpoint.
 
 
-
-
-
-
-[LuisArzaniCoverLetter.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12016725/LuisArzaniCoverLetter.pdf)
-
-
-
-[2022 Bootcamp Test Cases-1.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12017843/2022.Bootcamp.Test.Cases-1.pdf)
-
-
-
-
-
-
-
-  
-
-
 ## Tools
 
 __TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
+  * Able to to create and run test cases and test suits.
   * know how to use dashboards and statistics
 
 __Jira__
