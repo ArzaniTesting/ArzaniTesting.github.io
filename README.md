@@ -61,16 +61,13 @@ __Microsoft Office__
 
 __TestRail__
   * Able to to create and run test cases and test suits.
-  * know how to use dashboards and statistics
+  * Familiar with the use of dashboards and statistics.
 
 __Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
+  * Knowladgable how to create bug reports.
+  * Able to create bug tracking projects.
 
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
+__Trello__
   * know how to use Kanban boards and track project progress
 
 __Mind maps & diagrams__
