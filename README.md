@@ -64,14 +64,18 @@ __TestRail__
   * Familiar with the use of dashboards and statistics.
 
 __Jira__
-  * Knowladgable how to create bug reports.
+  * Knowladgable on how to create bug reports.
   * Able to create bug tracking projects.
 
 __Trello__
-  * know how to use Kanban boards and track project progress
+  * Able to organize projects into Kanban boards. 
 
 __Mind maps & diagrams__
   * know how to design beautifully simple mind maps
+
+__Postman__
+  * Knowladgable how to create bug reports.
+  * Able to create bug tracking projects.
 
 ## Courses
 
