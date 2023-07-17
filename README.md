@@ -27,13 +27,15 @@ Although my experience as a software tester is limited, I have shown dedication 
 
 ## Skills
 
-__Manual testing__
-  * Able to perform manual functional and usability testing of web applications.
-  * Obtained hands-on experience by testing applications and websites through communities of digital freelance software testers.
 
 __Test analysis & design__
-  * Knowledge of Software Development Lifecycle Models.
+  * Knowledge of software development lifecycle (SDLC) and software testing processes.
+  * Understading of Agile project management approaches. 
+  
+__Manual testing__
+  * Able to perform manual functional and usability testing of web applications.
   * Able to apply Black Box testing techniques, including equivalence partitioning, boundary value analysis and other methods to analyze input data.
+  * Obtained hands-on experience by testing applications and websites through communities of digital freelance software testers.
 
 __Performance testing__
   * Knowledge of different types of performance testing including Load testing, Stress testing, and Spike testing.
@@ -74,8 +76,7 @@ __Mind maps & diagrams__
   * know how to design beautifully simple mind maps
 
 __Postman__
-  * Knowladgable how to create bug reports.
-  * Able to create bug tracking projects.
+  * Understanding on how to create and send requests to test and validate APIs.
 
 ## Courses
 
