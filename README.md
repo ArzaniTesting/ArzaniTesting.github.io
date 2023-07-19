@@ -90,7 +90,7 @@ __The Complete 2023 Software Testing Bootcamp__
 Everything you need to learn about software testing and begin your career as a Quality Assurance Specialist.     
 [Link to certificate](https://www.udemy.com/certificate/UC-c67b9281-cc9d-4472-9fe6-9f40f7a2d033/)
 
-__Software Testing Masterclass (2023) - From Novice to Expert__  
+__Software Testing Masterclass (2022) - From Novice to Expert__  
 *Online courses by [Ozan Ilhan](https://www.udemy.com/user/ozan-ilhan-2/), Udemy*  
 Learn software testing and become QA Engineer/Agile Tester. Mobile/Backend/Web/QA testing. JIRA, TestRail & much more!    
 [Link to certificate](https://www.udemy.com/certificate/UC-f2b1a130-988f-4860-bff2-8ae7e169fb32/)
