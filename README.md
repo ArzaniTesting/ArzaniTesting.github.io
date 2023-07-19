@@ -122,13 +122,9 @@ Software Testing Masterclass (2023) - From Novice to Expert course was used to c
  * Test cases for banking website. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1ZLVs9LJWoz1NVXkpEzusmAX9TeMA1xOTx1hb7RowHxw/edit#gid=0)
 
 
-### Bug reports and work in Jira
+### Test cases in Jira
 
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
+* An example of a project in Jira. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1bcGH8VjIu3hjqZg61HppoUZDdiVtJb1jOGhDh-0bLw0/edit#gid=0).
 
 ### Mindmaps and diagrams
 * Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
