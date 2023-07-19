@@ -83,18 +83,22 @@ __Postman__
 __ISTQB Foundation Level Complete Training__  
 *Online courses by [Tarek Roshdy](https://www.udemy.com/user/trq-rshd/), Udemy*  
 The best way to prepare for the ISTQB Foundation Level Exam.    
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-15693ce4-513a-4414-a4ec-ca4046dc86c5/)   
+[Link to certificate](https://www.udemy.com/certificate/UC-15693ce4-513a-4414-a4ec-ca4046dc86c5/)   
 
 __The Complete 2023 Software Testing Bootcamp__  
 *Online courses by [Tarek Roshdy](https://www.udemy.com/user/trq-rshd/), Udemy*   
-Everything you need to learn about software testing and begin your career as a Quality Assurance Specialist.   
-[Link to the certificate](https://www.udemy.com/certificate/UC-c67b9281-cc9d-4472-9fe6-9f40f7a2d033/)
+Everything you need to learn about software testing and begin your career as a Quality Assurance Specialist.     
+[Link to certificate](https://www.udemy.com/certificate/UC-c67b9281-cc9d-4472-9fe6-9f40f7a2d033/)
 
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
+__Software Testing Masterclass (2023) - From Novice to Expert__  
+*Online courses by [Ozan Ilhan](https://www.udemy.com/user/ozan-ilhan-2/), Udemy*  
+Learn software testing and become QA Engineer/Agile Tester. Mobile/Backend/Web/QA testing. JIRA, TestRail & much more!    
+[Link to certificate](https://www.udemy.com/certificate/UC-f2b1a130-988f-4860-bff2-8ae7e169fb32/)
 
+__Manual Software Testing: Complete Course with Practical Labs__  
+*Online courses by [Balvir Chahal](https://www.udemy.com/user/balvir-singh-6/), Udemy*  
+Tools: JIRA, Bugzilla, Trello, Postman, 21 types of Testing, 7 principles of testing, QC and QA, ISTQB, Interview QA.  
+[Link to certificate](https://www.udemy.com/certificate/UC-36094f34-bc44-445c-82ce-47fe5f88a4c8/)
 
 
 
