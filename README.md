@@ -119,7 +119,7 @@ Tools: JIRA, Bugzilla, Trello, Postman, 21 types of Testing, 7 principles of tes
 ### Test cases and work in TestRail
 
 Software Testing Masterclass (2023) - From Novice to Expert course was used to create demo test cases.
-![Untitled](file:///C:/Users/luisa/Desktop/Untitled.jpeg)
+ * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
 
 
 ### Bug reports and work in Jira
