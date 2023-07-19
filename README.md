@@ -72,19 +72,18 @@ __Jira__
 __Trello__
   * Able to organize projects into Kanban boards. 
 
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
+__Mind maps__
+  * Able to design simple but constructive and efficient mind maps. 
 
 __Postman__
   * Understanding on how to create and send requests to test and validate APIs.
 
 ## Courses
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
+__ISTQB Foundation Level Complete Training__  
+*Online courses by [Tarek Roshdy](https://www.udemy.com/user/trq-rshd/), Udemy*  
+The best way to prepare for the ISTQB Foundation Level Exam
+[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-15693ce4-513a-4414-a4ec-ca4046dc86c5/)   
 
 __The 1st Online Institute of Software Testing__  
 *online course by Quality Lab, Moscow, Russia*  
