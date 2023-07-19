@@ -82,13 +82,13 @@ __Postman__
 
 __ISTQB Foundation Level Complete Training__  
 *Online courses by [Tarek Roshdy](https://www.udemy.com/user/trq-rshd/), Udemy*  
-The best way to prepare for the ISTQB Foundation Level Exam   
+The best way to prepare for the ISTQB Foundation Level Exam.    
 [Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-15693ce4-513a-4414-a4ec-ca4046dc86c5/)   
 
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+__The Complete 2023 Software Testing Bootcamp__  
+*Online courses by [Tarek Roshdy](https://www.udemy.com/user/trq-rshd/), Udemy*   
+Everything you need to learn about software testing and begin your career as a Quality Assurance Specialist.   
+[Link to the certificate](https://www.udemy.com/certificate/UC-c67b9281-cc9d-4472-9fe6-9f40f7a2d033/)
 
 __Onboarding to Testing · Jedi Point__  
 *online course by Quality Lab, Moscow, Russia*  
