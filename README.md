@@ -125,7 +125,12 @@ Software Testing Masterclass (2023) - From Novice to Expert course was used to c
 
 ### Test cases in Jira
 
-* An example of a project in Jira. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1bcGH8VjIu3hjqZg61HppoUZDdiVtJb1jOGhDh-0bLw0/edit#gid=0).
+The complete 2022 Software Testing Bootcamp - Course was used to create demo test cases. 
+
+* An example of an Uber project in Jira.
+
+[UberJiraRun.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12130171/UberJiraRun.pdf)
+
 
 ### Mindmaps and diagrams
 
