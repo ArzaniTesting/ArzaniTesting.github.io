@@ -127,10 +127,9 @@ Software Testing Masterclass (2023) - From Novice to Expert course was used to c
 * An example of a project in Jira. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1bcGH8VjIu3hjqZg61HppoUZDdiVtJb1jOGhDh-0bLw0/edit#gid=0).
 
 ### Mindmaps and diagrams
-* Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
-* State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
-* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://drive.google.com/file/d/1gbBCBGNyRJhp0DhFgFbpxrb9F2Zd5LnH/view?usp=sharing).
-* Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing).
+
+[Mind-map+and+Test+Case+Generation-2-2.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12129759/Mind-map%2Band%2BTest%2BCase%2BGeneration-2-2.pdf)
+
 
 ### Scripts for PICT (pairwise testing)
 
