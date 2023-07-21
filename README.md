@@ -1,4 +1,4 @@
-dds# Portfolio
+# Portfolio
 - [About me](#about-me)
 - [Resume](#resume)
 - [Skills](#skills)
