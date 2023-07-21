@@ -102,6 +102,8 @@ Tools: JIRA, Bugzilla, Trello, Postman, 21 types of Testing, 7 principles of tes
 
 ## Examples of my work
 
+Examples of bug reports from freelancing jobs. 
+
 [Otterbox Website - Info.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030358/Otterbox.Website.-.Info.pdf)
 
 [Swarovski Application - Info-1.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12030357/Swarovski.Application.-.Info-1.pdf)
