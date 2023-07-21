@@ -8,13 +8,11 @@ dds# Portfolio
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
-
+ 
 ## About me
 
-- Career changer from 20 years in the aviation industry to the Software Testing world. In my previous roles I was a skilled and hardworking aviation mechanic, but due to the ongoing pandemic my previous employer was forced to lay off all employees. While this period was unplanned and unexpected, I put the time to good use by choosing to follow a new career path and further expand my education.
-Although my experience as a software tester is limited, I have shown dedication in this new career by completing numerous online courses and achieving my Certified Tester certificate from the International Software Testing Qualifications Board.
+- Career changer from 20 years in the aviation industry to the Software Testing world. In my previous roles I was a skilled and hardworking aviation mechanic and part of quality control personell, but due to the ongoing pandemic my previous employer was forced to lay off all employees. While this period was unplanned and unexpected, I put the time to good use by choosing to follow a new career path and further expand my education.
+Although my experience as a software tester is limited, I have shown dedication in this new career by completing numerous online courses, working as a freelance tester, and achieving my Certified Tester certificate from the International Software Testing Qualifications Board.
 
 
 
@@ -130,13 +128,3 @@ Software Testing Masterclass (2023) - From Novice to Expert course was used to c
 
 [Mind-map+and+Test+Case+Generation-2-2.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12129759/Mind-map%2Band%2BTest%2BCase%2BGeneration-2-2.pdf)
 
-
-### Scripts for PICT (pairwise testing)
-
-* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
-* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
-
-## Books I have read
-__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
-
-__"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
