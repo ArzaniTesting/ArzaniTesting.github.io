@@ -20,7 +20,7 @@ Although my experience as a software tester is limited, I have shown dedication 
 
 ## Resume
 
-[LUIS_ARZANI_Resume.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12130948/LUIS_ARZANI_Resume.pdf)
+[LUIS_ARZANI_Resume.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12130966/LUIS_ARZANI_Resume.pdf)
 
 
 
