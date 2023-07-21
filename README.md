@@ -119,7 +119,7 @@ Tools: JIRA, Bugzilla, Trello, Postman, 21 types of Testing, 7 principles of tes
 Software Testing Masterclass (2023) - From Novice to Expert course was used to create demo test cases.
  * Test cases for banking website. 
 
-   [TestRailRun.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12130146/TestRailRun.pdf)
+ [TestRailRun.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12130146/TestRailRun.pdf)
 
 
 
@@ -127,7 +127,7 @@ Software Testing Masterclass (2023) - From Novice to Expert course was used to c
 
 The complete 2022 Software Testing Bootcamp - Course was used to create demo test cases. 
 
-* An example of an Uber project in Jira.
+* Test cases for an Uber project in Jira.
 
 [UberJiraRun.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12130171/UberJiraRun.pdf)
 
