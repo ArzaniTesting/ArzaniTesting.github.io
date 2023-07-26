@@ -12,7 +12,8 @@
 ## About me
 
 - Career changer from 20 years in the aviation industry to the Software Testing world. In my previous roles I was a skilled and hardworking aviation mechanic and part of quality control personell, but due to the ongoing pandemic my previous employer was forced to lay off all employees. While this period was unplanned and unexpected, I put the time to good use by choosing to follow a new career path and further expand my education.
-Although my experience as a software tester is limited, I have shown dedication in this new career by completing numerous online courses, working as a freelance tester, and achieving my Certified Tester certificate from the International Software Testing Qualifications Board.
+Although my experience as a software tester is limited, I have shown dedication in this new career by completing numerous online courses, working as a freelance tester, and achieving my Certified Tester certificate from the International Software Testing Qualifications Board. [Certificate-23-CTFL-00769-USA.pdf](https://github.com/ArzaniTesting/ArzaniTesting.github.io/files/12175491/Certificate-23-CTFL-00769-USA.pdf)
+
 
 
 
